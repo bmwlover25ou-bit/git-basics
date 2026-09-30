@@ -1,3 +1,1 @@
-Hello git
-This is my second line
-This is my fear
+hello from conflict branch
